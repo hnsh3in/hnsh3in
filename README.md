@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="a3Xier7Pufdt-UH-UuR6JHwLvvd8r66TVlmIRSr77Is" />
 # hnsh3in
 
 **DFIR | Threat Intelligence | SOC Automation**
