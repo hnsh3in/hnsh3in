@@ -1,16 +1,29 @@
-## Hi there 👋
+# hnsh3in
 
-<!--
-**hnsh3in/hnsh3in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DFIR | Threat Intelligence | SOC Automation**
+Singapore
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Incident response and digital forensics
+- Threat intelligence automation
+- MITRE ATT&CK-aligned threat hunting
+- Detection engineering
+
+## Stack
+
+Windows | Active Directory | Azure | Microsoft Sentinel | Defender XDR
+KQL | PowerShell | Python | Bash | n8n
+
+---
+
+## Projects
+
+- [Threat Intel Digest](https://github.com/hnsh3in/Threat_Intel_Digest) —
+AI-powered threat intelligence pipeline. n8n + Claude API.
+Twice-daily RSS digest filtered by relevance scoring,
+delivered to Discord and Gmail.
+
+---
