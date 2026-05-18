@@ -14,8 +14,7 @@ Singapore
 
 ## Stack
 
-Windows | Active Directory | Azure | Microsoft Sentinel | Defender XDR
-KQL | PowerShell | Python | Bash | n8n
+Windows | Active Directory | Azure | Microsoft Sentinel | Defender XDR | KQL | PowerShell | Python | Bash | n8n
 
 ---
 
